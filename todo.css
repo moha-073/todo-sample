@@ -45,18 +45,16 @@ body{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  min-height: 85vh;
 }
 
 .container{
-  min-height: 100vh;
   background: linear-gradient(135deg, #03913a, #b708e3);
   padding: 10px;
   width: 100%;
 }
 
 .todo-app{
-  width: 400px;
+  width: 380px;
   background: #fff;
   margin: 100px auto 20px;
   padding: 40px 30px 70px;
